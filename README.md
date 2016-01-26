@@ -1,5 +1,8 @@
 == README
 
+This is a improved README
+Improving is done using mv README.rdoc README.md
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
